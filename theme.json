@@ -1,0 +1,110 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#4B000F",
+					"name": "Brand",
+					"slug": "brand"
+				},
+				{
+					"color": "#690418",
+					"name": "Brand 2",
+					"slug": "brand-2"
+				},
+				{
+					"color": "#83041D",
+					"name": "Brand 3",
+					"slug": "brand-3"
+				},
+				{
+					"color": "#FFDEE4",
+					"name": "Brand 4",
+					"slug": "brand-4"
+				},
+				{
+					"color": "#FFF7F9",
+					"name": "Brand 5",
+					"slug": "brand-5"
+				},
+				{
+					"color": "#FFFCFD",
+					"name": "Brand 6",
+					"slug": "brand-6"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#FAFAF9",
+					"name": "Base 2",
+					"slug": "base-2"
+				},
+				{
+					"color": "#F5F4F2",
+					"name": "Base 3",
+					"slug": "base-3"
+				},
+				{
+					"color": "#EBE9E8",
+					"name": "Base 4",
+					"slug": "base-4"
+				},
+				{
+					"color": "#E3E0DE",
+					"name": "Base 5",
+					"slug": "base-5"
+				},
+				{
+					"color": "#D8D3D1",
+					"name": "Base 6",
+					"slug": "base-6"
+				},
+				{
+					"color": "#1B1B1B",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#303030",
+					"name": "Contrast 2",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#4A4A4A",
+					"name": "Contrast 3",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#6E6E6E",
+					"name": "Contrast 4",
+					"slug": "contrast-4"
+				},
+				{
+					"color": "#8D8D8D",
+					"name": "Contrast 5",
+					"slug": "contrast-5"
+				},
+				{
+					"color": "#ACACAC",
+					"name": "Contrast 6",
+					"slug": "contrast-6"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/button": {
+				"border": {
+					"radius": "999px"
+				}
+			}
+		}
+	},
+
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.8/theme.json"
+}
